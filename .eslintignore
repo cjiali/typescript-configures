@@ -1,0 +1,13 @@
+build/
+coverage/
+docs/
+
+node_modules/
+
+.github/
+.vscode/
+.history/
+
+package.json
+package-lock.json
+yarn.lock
